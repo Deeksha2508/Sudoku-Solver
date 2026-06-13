@@ -153,5 +153,6 @@ This project helped in understanding:
 ---
 
 ## Author
+Deeksha Sharma
 
 Developed as a learning project to explore recursion, backtracking, and algorithmic problem solving using Python.
